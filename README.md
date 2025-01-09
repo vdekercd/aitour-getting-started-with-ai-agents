@@ -1,6 +1,9 @@
 # Getting Started with AI Agents
 
-This repo is intended as a template for Microsoft AI Tour repositories
+This repo is a companion to this session at Microsoft AI Tour, a worldwide tour of events.
+
+> Learn more about Microsoft AI Tour on the official website.
+
 <br />
 <img src="https://github.com/cole-g-johnson/Interacting-With-LLMs/blob/main/LAB/assets/stack.png" width="400" />
 <br />
