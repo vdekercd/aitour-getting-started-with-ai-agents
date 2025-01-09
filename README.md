@@ -1,4 +1,4 @@
-# The Foundation of Generative AI in Azure
+# Getting Started with AI Agents
 
 This repo is intended as a template for Microsoft AI Tour repositories
 <br />
