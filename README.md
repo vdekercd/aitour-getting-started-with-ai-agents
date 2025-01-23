@@ -1,4 +1,5 @@
 # Getting Started with AI Agents
+[![](https://dcbadge.limes.pink/api/server/ByRwuEEgH4)](https://aka.ms/genai-discord?WT.mc_id=academic-105485-koreyst)
 
 This repo is a companion to this session at Microsoft AI Tour, a worldwide tour of events.
 
@@ -10,32 +11,33 @@ This repo is a companion to this session at Microsoft AI Tour, a worldwide tour 
 
 ## Session Desciption
 
-Discover the world of generative AI in Azure! We'll take a look at the newest multimodal models, like GPT-4o and Phi-3. You'll learn how these models work, what they are capable of, and how you can use them in your projects. We'll also give you a tour of the Azure AI ecosystem, showing you the different services available to help you start building your own custom copilots.​
+Explore the fascinating world of AI agents with Azure! Dive into the innovative Azure AI Agent Service, where you’ll discover how these intelligent agents can transform processes and products. Learn about the diverse use cases, from automating customer support to enhancing decision-making processes. Understand why AI agents are essential for modern businesses, offering efficiency, scalability, and advanced problem-solving capabilities. 
+
 
 ## Learning Outcomes
-1. Showcase latest and greatest models available in Azure AI, so developers know what they can use.​
+1. Gain a fundamental understanding of what AI agents are and how they function.
 
-2. Teach how LLM’s work and their capabilities, so developers understand how and when to use them.​
+2. Discover various use cases for AI agents across different industries.
 
-3. Show real-world use cases for LLMs, so developers are sparked with idea’s where to implement LLMs.​
+3. Learn about the features and capabilities of the Azure AI Agent Service.
 
-4. Zoom out and show the Azure AI ecosystem, so developers are aware of all the different tools and services, like Azure AI Speech and Florence, they can leverage.​
+4. Understand how to implement AI agents using the Azure AI Agent Service in your projects.​
 
 ## Technology Used
-1. Azure AI Studio or Azure OpenAI Studio​
+1. Azure OpenAI Service 
 
-2. Speech Studio​
+2. Azure AI Foundry 
 
-3. Azure OpenAI Service (LLMs)​
-
-4. Phi-3 (SLMs)​
+3. Azure AI Agent Service
 
 ## Additional Resources and Continued Learning
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| Future Learning 1  | [Link 1](https://www.google.com/) | Learn more about X |
-| Future Learning 2  | [Link 2](https://www.google.com/) | Learn more about Y |
+| AI Foundry	  | [AI Foundry](https://ai.azure.com/) | Azure AI Foundry is a platform for building, evaluating, and deploying generative AI solutions and custom copilots. |
+| AI Agent Service  | [AI Agent Service](https://learn.microsoft.com/en-us/azure/ai-services/agents/) | Azure AI Agent Service is a fully managed service designed to empower developers to securely build, deploy, and scale high-quality, and extensible AI agents without needing to manage the underlying compute and storage resources |
+| Semantic Kernel Agent Framework  | [Semantic Kernel Agent Framework](https://learn.microsoft.com/en-us/semantic-kernel/frameworks/agent/?pivots=programming-language-csharp) | The Semantic Kernel Agent Framework provides a platform within the Semantic Kernel eco-system that allow for the creation of AI agents and the ability to incorporate agentic patterns into any application based on the same patterns and features that exist in the core Semantic Kernel framework. |
+| AutoGen Agent Framework  | [AutoGen Agent Framework](https://microsoft.github.io/autogen/stable/) | AutoGen core offers an easy way to quickly build event-driven, distributed, scalable, resilient AI agent systems. Agents are developed by using the Actor model.  |
 
 ## Content Owners
 
@@ -43,9 +45,9 @@ Discover the world of generative AI in Azure! We'll take a look at the newest mu
 
 <table>
 <tr>
-    <td align="center"><a href="https://github.com/cole-g-johnson">
-        <img src="https://github.com/cole-g-johnson.png" width="100px;" alt="Cole Johnson"/><br />
-        <sub><b>Cole Johnson</b></sub>
+    <td align="center"><a href="https://github.com/koreyspace">
+        <img src="https://github.com/koreyspace.png" width="100px;" alt="Korey Stegared-Pace"/><br />
+        <sub><b>Korey Stegared-Pace</b></sub>
     </a><br />
     </td>
 </tr></table>
