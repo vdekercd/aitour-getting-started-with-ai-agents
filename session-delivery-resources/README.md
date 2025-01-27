@@ -16,15 +16,14 @@ code.
 3.  Ask questions of the Lead Presenter
 
 ## File Summary
-
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
 | PowerPoint        | - [Presentation](presentations.md) | Slides |
-| PPT Recording     | - [Presentation](https://globaleventcdn.blob.core.windows.net/assets/data/data10/DATA10.mp4) | Video Recording of the PowerPoint slides with no audio |
-| Videos            | - [Microsoft Ignite Orlando Recording](https://myignite.techcommunity.microsoft.com/sessions/84354) | Example Presetations of this Session |
-| Demos             | - [Demo 1 - Exploring a Modern Data Warehouse](demos/README.md#demo-1---exploring-a-modern-data-warehouse) | Additional Demo Content | 
-| Demo Recordings           | - [Data10 - Prequisites](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10_Prerequisites-NoAudio.mp4) | Recording of the Demo Live 1 | 
-| Demo Recordings           | - [Data10 - Demo](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10-Demo-NoAudio.mp4 ) | Recording of the Demo Live 2 | 
+| PPT Recording     | - [Presentation](https://globaleventcdn.blob.core.windows.net/assets/data/data10/DATA10.mp4) | Coming Soon  |
+| Videos            | - [Coming Soon](https://myignite.techcommunity.microsoft.com/sessions/84354) | Coming Soon |
+| Demo 1 -Code Intepreter            | - [Demo 1 - Code Intepreter](demo-1/demo-1-codeintrepreter.ipynb) | Code Sample using Code Inrepreter to create Data Visualizations | 
+| Demo 2  - Function Calling            | - [Demo 2 - Code Intepreter](demo-2/demo-2-functioncalling.ipynb) | Code Sample using Function Calling and Custom Defined Functions | 
+
 
 ## Get Started
 
@@ -32,7 +31,7 @@ This training repository is divided in to the following sections:
 
 | [Slides](#slides) | [Demos](demos/README.md) | [Deployment](deployment/README.md) | 
 |-------------------|---------------------------|--------------------------------------
-| 28 slides - 30 minutes| 1 demos - 15 minutes | Demo setup
+| 30 slides - 30 minutes| 2 demos - 15 minutes | Demo setup
 
 ## Slides
 
@@ -42,27 +41,28 @@ The [slides](presentations.md) have presenter notes in each part of the session
 
 | Time        | Description 
 --------------|-------------
-0:00 - 5:00   | Intro to the session 
-5:00 - 15:00  | Why Modern Data Warehousing
-15:00 - 20:00 | Building the Modern data warehouse
-20:00 - 35:00 | Designing a modern data warehouse solution
-35:00 - 40:00 | The evolution of cloud scale analytics
-40:00 - 45:00 | Session review
+0:00 - 10:00   | Understanding Agents 
+10:00 - 15:00  | AI Agent Use Cases 
+15:00 - 20:00 | Building Agents 
+20:00 - 35:00 | Azure AI Agent Service + 2 Demos 
+35:00 - 40:00 | Exploring AI Agent Frameworks 
+40:00 - 45:00 | Session review - Takeaways 
 
 ## Deployment / Preparation
 
 >**What's Here?** Deploying the demo environment on Azure - including the prerequisites.
 
-[Instructions and prerequisites are outlined here](deployment/README.md). 
+1. Follow the manual deployment steps in the [AI Agents Quick Start](https://github.com/Azure/azure-ai-agents) repo and deploy using the **basic-agent-keys.bicep** file to create an Azure AI Project.
+2. At the time of writing the bicep deploys a **gpt-4o-mini** model. If you would like to work with another model supported by the Azure AI Agent service, you need to manually deployfrom the [Azure AI Foundry portal](https://ai.azure.com) into the newly created project.
+3. Follow the instructions to create to [Create an Agent connection string](https://github.com/Azure/azure-ai-agents/blob/main/quickstart.md#create-an-agent)
+5. Set up the .env file variable **PROJECT_CONNECTION_STRING** to the connection string you just created.
+
 
 
 ## Demos
 
-> **What's Here?** Pre-delivery preparation, stage ready videos, required files (such as JSON templates), and walk-through videos
-
-Detailed explanations of each demonstration associated with this presentation can be found in this section. There are 3 "live from stage" technical demonstrations that utilize a number of tools both in and out of Azure. [You can get a high level overview of the tools and how we will be using them here](demos/README.md).
-
 | Demo 	                                                                                               | Minutes | Video |
 -------------------------------------------------------------------------------------------------------|---------|----------------- | 
-|  [1 - Exploring a Modern Data Warehouse](demos/README.md#demo-1---exploring-a-modern-data-warehouse) | 15       | [Link](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10-Demo-NoAudio.mp4) |
+|  [1 - Using Code Interpreter with Azure AI Agent Service](demo-1/demo-1-codeintrepreter.ipynb) | 5       | [Coming Soon](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10-Demo-NoAudio.mp4) |
+|  [2 - Using Function Calling with Azure AI Agent Service](demo-1/demo-1-codeintrepreter.ipynb) | 10       | [Coming Soon](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10-Demo-NoAudio.mp4) |
 
