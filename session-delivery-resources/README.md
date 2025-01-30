@@ -18,7 +18,7 @@ code.
 ## File Summary
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
-| PowerPoint        | - [Presentation](presentations.md) | Slides |
+| PowerPoint        | - [Presentation](https://aka.ms/AAu3mh5) | Slides |
 | PPT Recording     | - [Presentation](https://globaleventcdn.blob.core.windows.net/assets/data/data10/DATA10.mp4) | Coming Soon  |
 | Videos            | - [Coming Soon](https://myignite.techcommunity.microsoft.com/sessions/84354) | Coming Soon |
 | Demo 1 -Code Intepreter            | - [Demo 1 - Code Intepreter](demo-1/demo-1-codeintrepreter.ipynb) | Code Sample using Code Inrepreter to create Data Visualizations | 
