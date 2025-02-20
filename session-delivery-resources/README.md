@@ -23,6 +23,7 @@ code.
 | Videos            | - [Coming Soon](https://myignite.techcommunity.microsoft.com/sessions/84354) | Coming Soon |
 | Demo 1 -Code Intepreter            | - [Demo 1 - Code Intepreter](demo-1/demo-1-codeintrepreter.ipynb) | Code Sample using Code Inrepreter to create Data Visualizations | 
 | Demo 2  - Function Calling            | - [Demo 2 - Code Intepreter](demo-2/demo-2-functioncalling.ipynb) | Code Sample using Function Calling and Custom Defined Functions | 
+| Session delivery recording       | [Microsoft Reactor session](https://www.youtube.com/watch?v=seOJn-1omek)| Session delivery recording|
 
 
 ## Get Started
