@@ -6,7 +6,7 @@ This repo is a companion to this session at Microsoft AI Tour, a worldwide tour 
 
 > Learn more about Microsoft AI Tour on the official website.
 
-## Session Desciption
+## Session Description
 
 Explore the fascinating world of AI agents with Azure! Dive into the innovative Azure AI Agent Service, where you’ll discover how these intelligent agents can transform processes and products. Learn about the diverse use cases, from automating customer support to enhancing decision-making processes. Understand why AI agents are essential for modern businesses, offering efficiency, scalability, and advanced problem-solving capabilities. 
 
