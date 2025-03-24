@@ -19,8 +19,8 @@ code.
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
 | PowerPoint        | - [Presentation](https://aka.ms/AAu3mh5) | Slides |
-| PPT Recording     | - [Presentation](https://globaleventcdn.blob.core.windows.net/assets/data/data10/DATA10.mp4) | Coming Soon  |
-| Videos            | - [Coming Soon](https://myignite.techcommunity.microsoft.com/sessions/84354) | Coming Soon |
+| PPT Recording     | - [Presentation](https://aka.ms/AAv5pzs) | Presentation Recording  |
+| Videos            | - [Video](https://aka.ms/AAv5pzh) | |
 | Demo 1 -Code Intepreter            | - [Demo 1 - Code Intepreter](demo-1/demo-1-codeintrepreter.ipynb) | Code Sample using Code Inrepreter to create Data Visualizations | 
 | Demo 2  - Function Calling            | - [Demo 2 - Code Intepreter](demo-2/demo-2-functioncalling.ipynb) | Code Sample using Function Calling and Custom Defined Functions | 
 | Session delivery recording       | [Microsoft Reactor session](https://www.youtube.com/watch?v=seOJn-1omek)| Session delivery recording|
