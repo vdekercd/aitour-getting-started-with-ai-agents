@@ -1,0 +1,8 @@
+azure-identity
+azure-ai-projects
+ipython
+jupyter
+tabulate
+pathlib
+typing
+datetime
