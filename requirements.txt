@@ -2,3 +2,8 @@ azure-identity
 azure-ai-projects
 ipython
 jupyter
+pprint
+tabulate
+pathlib
+typing
+datetime
