@@ -53,12 +53,9 @@ The [slides](presentations.md) have presenter notes in each part of the session
 
 >**What's Here?** Deploying the demo environment on Azure - including the prerequisites.
 
-1. Follow the manual deployment steps in the [AI Agents Quick Start](https://github.com/Azure/azure-ai-agents) repo and deploy using the **basic-agent-keys.bicep** file to create an Azure AI Project.
-2. At the time of writing the bicep deploys a **gpt-4o-mini** model. If you would like to work with another model supported by the Azure AI Agent service, you need to manually deployfrom the [Azure AI Foundry portal](https://ai.azure.com) into the newly created project.
-3. Follow the instructions to create to [Create an Agent connection string](https://github.com/Azure/azure-ai-agents/blob/main/quickstart.md#create-an-agent)
-5. Set up the .env file variable **PROJECT_CONNECTION_STRING** to the connection string you just created.
-
-
+1. Follow the manual deployment steps outlined in the [AI Agents labs repository](https://github.com/Azure/azure-ai-agents-labs/blob/main/Lab%201%20-%20Project%20Setup.ipynb) to create a new Azure AI Project.
+2. By default, these steps deploy a **gpt-4o** model. If you prefer to use a different model supported by the Azure AI Agent service, you’ll need to manually deploy it via the Azure AI Foundry portal within your newly created project.
+3. Set up the .env file variable PROJECT_CONNECTION_STRING to the connection string you just created.
 
 ## Demos
 
